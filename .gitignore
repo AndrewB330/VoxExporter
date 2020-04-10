@@ -1,0 +1,5 @@
+vox/
+exported/
+__pycache__/
+.idea/
+*.obj
